@@ -6,4 +6,4 @@ batlab
 # Participants
 Charalampos Skeparnakos
 
-Argiris Manetas
+Argyris Manetas
