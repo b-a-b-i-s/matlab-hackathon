@@ -3,7 +3,7 @@
 # Team
 batlab
 
-# Participant
+# Participants
 Charalampos Skeparnakos
 
 Argiris Manetas
